@@ -26,7 +26,7 @@ A modular, RESTful API for a blog application built with FastAPI. This project d
 
 ## 📂 Project Structure
 
-text
+```text
 ├── alembic/                # Database migration scripts
 ├── blog/                   # Main application module
 │   ├── routers/            # Modular API routes
